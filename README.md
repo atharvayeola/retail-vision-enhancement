@@ -1,5 +1,5 @@
 # retail_store_inventory
-An object detection and recognition project for detecting  inventory in a retail store
+An object detection and recognition project for detecting on-shelf inventory in a retail store
 
 ## Setup Environment
 1. clone the repository
