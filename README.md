@@ -39,5 +39,5 @@ This will create a txt file in results folder, consisting of each cropped image 
 Follow the above steps to run the tasks in docker.
 
 
-
+### Sample result
 ![bounding_box_detection](https://github.com/user-attachments/assets/ba8def2f-0d20-4f14-845b-579b58c4ff4f)
